@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/barisozcelikay/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ozcelikay.baris@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
+
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=barisozcelikay)](https://github.com/barisozcelikay)
 
 <h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
